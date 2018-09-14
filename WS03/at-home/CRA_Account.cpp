@@ -1,23 +1,3 @@
-/**********************************************************
-// Workshop 3: Classes and Privacy
-// w3_at_home.cpp
-// Version 2.1
-// 2017/09/09
-// Chris Szalwinski
-// Description
-// This workshop demonstrates classes in C++ and
-// how member variables are defined privately, but
-// accessed through public member functions
-
-// Student Margarita Selenko
-// Student id 147393169
-// Student mail mselenko@myseneca.ca
-// Revision History
-///////////////////////////////////////////////////////////
-// Name                 Date                                     Reason
-// Chris        2018/01/23            allow longer names
-///////////////////////////////////////////////////////////
-**********************************************************/
 
 #include <iostream>
 #include <cstring>
