@@ -1,0 +1,15 @@
+1.We can use reference return if the object already exists before the function is called. 
+For example, using the += operator, which involves returning the object to the left, we try to 
+avoid unnecessary copies using returning by reference. Since the operator + includes the return of a new object, which is sum 
+of two arguments, the return by reference is incorrect.
+
+2.I used two temporary objects with the same name Fraction result in two overloaded functions:
+ Fraction operator+(const Fraction& rhs) const;
+		
+ Fraction operator*(const Fraction& rhs) const;
+
+3.*this = Fraction(); call constructor to initialize current object with safe empty state
+   (rhs.isEmpty() == true) && (this->isEmpty() == true); call function isEmpty to get true or fasle
+   result = Fraction(x, y); call two parameters constructor to validates the data received and stores that data.
+
+4. I have learned how the operator functions work and how data and classes are assigned and returned.

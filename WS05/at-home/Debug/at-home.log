@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+c:\users\rita\desktop\seneca\oop\oop-workshops-master\ws05\at-home\fraction.cpp(85): warning C4172: returning address of local variable or temporary: result
+c:\users\rita\desktop\seneca\oop\oop-workshops-master\ws05\at-home\fraction.cpp(92): warning C4172: returning address of local variable or temporary: result
+  at-home.vcxproj -> C:\Users\rita\Desktop\Seneca\oop\OOP-Workshops-master\WS05\at-home\Debug\at-home.exe
+  at-home.vcxproj -> C:\Users\rita\Desktop\Seneca\oop\OOP-Workshops-master\WS05\at-home\Debug\at-home.pdb (Partial PDB)
