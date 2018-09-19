@@ -1,0 +1,11 @@
+﻿  w6_at_home.cpp
+  Contact.cpp
+c:\users\rita\desktop\seneca\oop\oop-workshops-master\w6\at-home\at-home\contact.cpp(21): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+c:\users\rita\desktop\seneca\oop\oop-workshops-master\w6\at-home\at-home\contact.cpp(74): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\rita\desktop\seneca\oop\oop-workshops-master\w6\at-home\at-home\contact.cpp(82): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\rita\desktop\seneca\oop\oop-workshops-master\w6\at-home\at-home\contact.cpp(101): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+  Generating Code...
+  at-home.vcxproj -> C:\Users\rita\Desktop\Seneca\oop\OOP-Workshops-master\W6\at-home\at-home\Debug\at-home.exe
+  at-home.vcxproj -> C:\Users\rita\Desktop\Seneca\oop\OOP-Workshops-master\W6\at-home\at-home\Debug\at-home.pdb (Partial PDB)
